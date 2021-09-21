@@ -27,4 +27,4 @@ This pipeline is best run with [Anaconda](https://www.anaconda.com/products/indi
 * **figures/zscores.xlsx**: raw data from **figures/heatmap.pdf**
 
 ## Citation
-(To come)
+Cheng W, Ndoka E, Maung JN, Pan W, Rupp AC, Rhodes CJ, Olson DP, Myers MG Jr. **NTS Prlh overcomes orexigenic stimuli and ameliorates dietary and genetic forms of obesity.** *Nat Commun* 2021 Aug 30;12(1):5175. DOI: (10.1038/s41467-021-25525-3)[https://doi.org/10.1038/s41467-021-25525-3]
